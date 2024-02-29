@@ -1,0 +1,17 @@
+.button {
+	cursor: pointer;
+	background: none;
+	border: none;
+}
+
+.colorless {
+	fill: rgb(250, 250, 250);
+}
+
+.blue {
+	fill: rgb(6, 6, 231);
+}
+
+.red {
+	fill: red;
+}

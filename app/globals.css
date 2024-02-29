@@ -78,6 +78,11 @@ body {
 body {
 	color: rgb(var(--foreground-rgb));
 	background: white;
+	font-family: Open Sans;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 21px;
+	text-align: left;
 }
 
 a {
@@ -86,17 +91,10 @@ a {
 }
 
 .wrapper {
-	width: 1200px;
+	max-width: 1200px;
 	margin: 0 auto;
-	background-color: bisque;
 }
 
-.cart__blog {}
-
-.cart__img {
-	width: 100%;
-
-}
 
 @media (prefers-color-scheme: dark) {
 	html {

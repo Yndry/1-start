@@ -2,3 +2,19 @@
 	max-width: 350px;
 	margin: 0 auto;
 }
+
+.read__wrapper {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.cart__like {}
+
+.cart__content {}
+
+.cart__frontend {
+	display: flex;
+	justify-content: space-between;
+
+}
