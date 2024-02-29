@@ -85,6 +85,18 @@ a {
 	text-decoration: none;
 }
 
+.wrapper {
+	width: 1200px;
+	margin: 0 auto;
+	background-color: bisque;
+}
+
+.cart__blog {}
+
+.cart__img {
+	width: 100%;
+
+}
 
 @media (prefers-color-scheme: dark) {
 	html {
