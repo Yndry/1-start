@@ -3,6 +3,7 @@
 	background: none;
 	border: none;
 	display: inline-flex;
+	line-height: 20px;
 }
 
 .colorless {

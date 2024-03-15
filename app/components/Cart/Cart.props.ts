@@ -4,4 +4,5 @@ export interface CartProps
   extends DetailedHTMLProps<HTMLAttributes<HTMLDivElement>, HTMLDivElement> {
   hcontent: string;
   pcontent: string;
+  imgSrc: string;
 }

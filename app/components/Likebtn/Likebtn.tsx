@@ -1,3 +1,5 @@
+//Компонент Счетчик лайков
+
 import { LikebtnProps } from './Likebtn.props';
 import Likesvg from './like.svg';
 import styles from './Likebtn.module.css';

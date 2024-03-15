@@ -1,6 +1,8 @@
 import { HtagProps } from './Htag.props';
 import styles from './Htag.module.css';
 
+//Когмпонент Заголовка
+
 export const Htag = ({ tag, children }: HtagProps): JSX.Element => {
   switch (tag) {
     case 'h1':

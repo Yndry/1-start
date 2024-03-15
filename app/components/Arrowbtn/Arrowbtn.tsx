@@ -1,3 +1,5 @@
+//Компонент Кнопка Читать подробнее
+
 import Arrowsvg from './arrow.svg';
 import styles from './Arrowbtn.module.css';
 import cn from 'classnames';
